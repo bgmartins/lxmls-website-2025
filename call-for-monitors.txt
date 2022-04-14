@@ -1,0 +1,45 @@
+======================================================================
+   Lisbon Machine Learning School (LxMLS) 2022 -- CALL FOR MONITORS
+======================================================================
+
+The Lisbon Machine Learning School (LxMLS) is a one-week summer school
+taking place in Lisbon, Portugal, and focused on Natural Language
+Processing (NLP). The school hosts around 200 students selected from
+more than 500 applicants from around the world and enjoys top
+lecturers in machine learning from academia and industry.
+
+The 12th edition will take place from July 24th to the 29th, 2022.
+You can find more information at http://lxmls.it.pt/
+
+We are looking for candidates to take following responsibilities
+
+- Master the LxMLS lab guide and code. See last year's guide as 
+  reference: http://lxmls.it.pt/2021/LxMLS_guide_2021.pdf
+
+- Tutor students during the labs sessions, explaining exercises and 
+  addressing the student's doubts.
+
+- Assist in the organization of the school, including Q&A sessions 
+  after the lectures and organization of social activities
+
+The ideal profile for this role is former LxMLS alumni, that would 
+like to repeat the experience and want to keep learning ML and NLP. If
+you have extensive Python and ML experience and feel like you could 
+teach the guide, this can also be a good role for you. We organize the 
+team with Git/GitHub so experience with both is a plus.
+
+You will be able to attend morning and afternoon lectures for free. 
+With the exception of the lab sessions, monitors rotate in activities,
+so there is available free time during the school.
+
+Interested candidates should send an email with the subject "Monitor
+Application" to ramon@astudillo.com with a Curriculum Vitae as well as 
+the following information:
+
+- Brief description of why you want to join;
+- Indication of whether you have attended LxMLS as student before;
+- (Optional) Recommendation emails. These can be sent to the same address.
+
+Application Deadline: May 31
+Decision: June 7
+======================================================================
