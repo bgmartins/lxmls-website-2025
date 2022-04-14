@@ -34,21 +34,21 @@ Features of LxMLS:
 List of Confirmed Speakers
 ---------------
 
-ADÈLE H. RIBEIRO Columbia University | USA
-ALEXANDER RUSH Cornell University | USA
-ANDRÉ MARTINS University of Lisbon & Unbabel | Portugal
-BARBARA PLANK University of Copenhagen | Denmark
-BHIKSHA RAJ Carnegie Mellon University | USA
-CHRIS DYER Google Deepmind | UK
-ELIAS BAREINBOIM Columbia University | USA
-HANNANEH HAJISHIRZI University of Washington | USA
-LUÍS PEDRO COELHO Fudan University | China
-KYUNGHYUN CHO New York University | USA
-NOAH SMITH University of Washington & Allen Institute for Artificial Intelligence | USA
-MÁRIO FIGUEIREDO University of Lisbon & Instituto de Telecomunicações | Portugal
-STEFAN RIEZLER Heidelberg University | Germany
-SLAV PETROV Google Inc. | USA
-XAVIER CARRERAS Artificial Intelligence Research Institute, CSIC | Spain
+ADÈLE H. RIBEIRO | Columbia University | USA
+ALEXANDER RUSH | Cornell University | USA
+ANDRÉ MARTINS | University of Lisbon & Unbabel | Portugal
+BARBARA PLANK | University of Copenhagen | Denmark
+BHIKSHA RAJ | Carnegie Mellon University | USA
+CHRIS DYER | Google Deepmind | UK
+ELIAS BAREINBOIM | Columbia University | USA
+HANNANEH HAJISHIRZI | University of Washington | USA
+LUÍS PEDRO COELHO | Fudan University | China
+KYUNGHYUN CHO | New York University | USA
+NOAH SMITH | University of Washington & Allen Institute for Artificial Intelligence | USA
+MÁRIO FIGUEIREDO | University of Lisbon & Instituto de Telecomunicações | Portugal
+STEFAN RIEZLER | Heidelberg University | Germany
+SLAV PETROV | Google Inc. | USA
+XAVIER CARRERAS | Artificial Intelligence Research Institute, CSIC | Spain
 
 Please visit our webpage for up to date information: http://lxmls.it.pt/2022
 
