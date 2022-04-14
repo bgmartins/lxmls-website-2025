@@ -1,0 +1,60 @@
+==============================================================
+Call for Participation
+LxMLS 2022 - 12th Lisbon Machine Learning School
+==============================================================
+
+We invite everyone interested in Machine Learning and Natural Language Processing to attend the 12th Lisbon Machine Learning School - LxMLS 2022.
+
+Important Dates
+---------------
+* Application Deadline: May 15, 2022
+* Decision: June 1, 2022
+* Early Registration: June 1 - July 15, 2022
+* Summer School: July 24 - 29, 2022
+
+
+Topics and Intended Audience
+---------------
+The school will cover a range of Machine Learning (ML) topics, from theory to practice, that are important in solving Natural Language Processing (NLP) problems that arise in the analysis and use of Web data.
+
+Our target audience is:
+* Researchers and graduate students in the fields of NLP and Computational Linguistics;
+* Computer scientists who have interests in statistics and machine learning;
+* Industry practitioners who desire a more in depth understanding of these subjects.
+
+Features of LxMLS:
+* No deep previous knowledge of ML or NLP is required, but the attendants are assumed to have some basic background on mathematics and programming;
+* Days are divided into morning lectures and afternoon lab sessions and practical talks (see schedule);
+* The Labs guide will be provided one month in advance. Last year's guide is available on the website.
+* A day zero is scheduled to review basic concepts and introduce the necessary tools for implementation exercises
+* Both basic (e.g linear classifiers) and advanced topics (e.g. deep learning, reinforcement learning) will be covered
+* Welcome reception, Banquet, daily lunch as well as morning and afternoon coffee breaks are included in the application fee
+* Lecturers are leading researchers in machine learning and natural language processing
+
+List of Confirmed Speakers
+---------------
+
+ADÈLE H. RIBEIRO Columbia University | USA
+ALEXANDER RUSH Cornell University | USA
+ANDRÉ MARTINS University of Lisbon & Unbabel | Portugal
+BARBARA PLANK University of Copenhagen | Denmark
+BHIKSHA RAJ Carnegie Mellon University | USA
+CHRIS DYER Google Deepmind | UK
+ELIAS BAREINBOIM Columbia University | USA
+HANNANEH HAJISHIRZI University of Washington | USA
+LUÍS PEDRO COELHO Fudan University | China
+KYUNGHYUN CHO New York University | USA
+NOAH SMITH University of Washington & Allen Institute for Artificial Intelligence | USA
+MÁRIO FIGUEIREDO University of Lisbon & Instituto de Telecomunicações | Portugal
+STEFAN RIEZLER Heidelberg University | Germany
+SLAV PETROV Google Inc. | USA
+XAVIER CARRERAS Artificial Intelligence Research Institute, CSIC | Spain
+
+Please visit our webpage for up to date information: http://lxmls.it.pt/2022
+
+To apply, please fill the form in https://lisbonmls.wufoo.com/forms/application-form-lxmls-2022/ 
+Any questions should be directed to: lxmls-2022@lx.it.pt
+
+We are looking forward to your participation!
+
+-- The organizers of LxMLS'2022.
