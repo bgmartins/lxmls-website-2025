@@ -16,8 +16,8 @@ We are looking for candidates to take following responsibilities
 - Master the LxMLS lab guide and code. See last year's guide as 
   reference: http://lxmls.it.pt/2021/LxMLS_guide_2021.pdf
 
-- Tutor students during the labs sessions, explaining exercises and 
-  addressing the student's doubts.
+- Tutor students during the lab sessions, explaining exercises and 
+  addressing the student's doubts
 
 - Assist in the organization of the school, including Q&A sessions 
   after the lectures and organization of social activities
@@ -36,9 +36,9 @@ Interested candidates should send an email with the subject "Monitor
 Application" to ramon@astudillo.com with a Curriculum Vitae as well as 
 the following information:
 
-- Brief description of why you want to join;
-- Indication of whether you have attended LxMLS as student before;
-- (Optional) Recommendation emails. These can be sent to the same address.
+- Brief description of why you want to join
+- Indication of whether you have attended LxMLS as student before
+- (Optional) Recommendation emails (can be sent to the same address)
 
 Application Deadline: May 31
 Decision: June 7
