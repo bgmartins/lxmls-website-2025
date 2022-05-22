@@ -1,6 +1,6 @@
-======================================================================
-   Lisbon Machine Learning School (LxMLS) 2022 -- CALL FOR MONITORS
-======================================================================
+=======================================================================
+Lisbon Machine Learning School (LxMLS) 2022 -- CALL FOR MONITORS
+=======================================================================
 
 The Lisbon Machine Learning School (LxMLS) is a one-week summer school
 taking place in Lisbon, Portugal, and focused on Natural Language
@@ -8,38 +8,43 @@ Processing (NLP). The school hosts around 200 students selected from
 more than 500 applicants from around the world and enjoys top
 lecturers in machine learning from academia and industry.
 
-The 12th edition will take place from July 24th to the 29th, 2022.
-You can find more information at http://lxmls.it.pt/
+This will be the first non-remote LxMLS in 3 years! It will take place from
+July 24th to July 29th, you can find more information at http://lxmls.it.pt/
 
 We are looking for candidates to take following responsibilities
 
-- Master the LxMLS lab guide and code. See last year's guide as 
-  reference: http://lxmls.it.pt/2021/LxMLS_guide_2021.pdf
+- Master the LxMLS lab guide and code. See last year's guide as reference 
+  http://lxmls.it.pt/2021/LxMLS_guide_2021.pdf
 
-- Tutor students during the lab sessions, explaining exercises and 
-  addressing the student's doubts
+- Tutor students during the labs sessions explaining exercises and solving the
+  student's doubts.
 
-- Assist in the organization of the school, including Q&A sessions 
-  after the lectures and organization of social activities
+- Assist in the organization of the school including Q&As and organization of
+  social activities
 
-The ideal profile for this role is former LxMLS alumni, that would 
-like to repeat the experience and want to keep learning ML and NLP. If
-you have extensive Python and ML experience and feel like you could 
-teach the guide, this can also be a good role for you. We organize the 
-team with Git/GitHub so experience with both is a plus.
+The ideal profile for this role is former LxMLS alumni around the
+world that would like to repeat the experience but want to keep
+learning ML and NLP. If you have extensive Python and ML experience
+and feel like you could teach the guide, this can also be a good role
+for you. We organize the team with Git/GitHub so experience with both
+is a plus.
 
-You will be able to attend morning and afternoon lectures for free. 
-With the exception of the lab sessions, monitors rotate in activities,
-so there is available free time during the school.
+You will be able to attend morning and afternoon lectures for free. With the
+exception of the lab sessions, monitors rotate in activities so that there is
+available free time during the school.
 
-Interested candidates should send an email with the subject "Monitor
-Application" to ramon@astudillo.com with a Curriculum Vitae as well as 
-the following information:
+Interested candidates should send an email with subject "Monitor
+Application" to ramon@astudillo.com with a Curriculum Vitae as well as following
+information
 
-- Brief description of why you want to join
-- Indication of whether you have attended LxMLS as student before
-- (Optional) Recommendation emails (can be sent to the same address)
+- Brief description of why you want to join 
+- Indication of whether you have attended any past edition of LxMLS as student
+- Indication of whether you need to apply to the travel and lodging grants
+- (Optional) Recommendation emails. These can be sent to the same address.
 
-Application Deadline: May 31
+Previous years monitors only need to send a CV and indicate if they are applying
+to the travel and lodging grants
+
+Application Deadline: June 1st
 Decision: June 7
-======================================================================
+=====================================================
