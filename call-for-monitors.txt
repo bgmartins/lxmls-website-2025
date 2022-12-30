@@ -1,5 +1,5 @@
 =======================================================================
-Lisbon Machine Learning School (LxMLS) 2022 -- CALL FOR MONITORS
+Lisbon Machine Learning School (LxMLS) 2023 -- CALL FOR MONITORS
 =======================================================================
 
 The Lisbon Machine Learning School (LxMLS) is a one-week summer school
@@ -9,7 +9,7 @@ more than 500 applicants from around the world and enjoys top
 lecturers in machine learning from academia and industry.
 
 This will be the first non-remote LxMLS in 3 years! It will take place from
-July 24th to July 29th, you can find more information at http://lxmls.it.pt/
+July 8th to July 18th, you can find more information at http://lxmls.it.pt/
 
 We are looking for candidates to take following responsibilities
 
