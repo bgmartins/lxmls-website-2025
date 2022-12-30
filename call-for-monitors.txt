@@ -14,7 +14,7 @@ July 8th to July 18th, you can find more information at http://lxmls.it.pt/
 We are looking for candidates to take following responsibilities
 
 - Master the LxMLS lab guide and code. See last year's guide as reference 
-  http://lxmls.it.pt/2021/LxMLS_guide_2021.pdf
+  http://lxmls.it.pt/2022/documents/LxMLS_guide_2022.pdf
 
 - Tutor students during the labs sessions explaining exercises and solving the
   student's doubts.
