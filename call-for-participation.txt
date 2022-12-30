@@ -1,16 +1,16 @@
 ==============================================================
 Call for Participation
-LxMLS 2022 - 12th Lisbon Machine Learning School
+LxMLS 2023 - 13th Lisbon Machine Learning School
 ==============================================================
 
-We invite everyone interested in Machine Learning and Natural Language Processing to attend the 12th Lisbon Machine Learning School - LxMLS 2022.
+We invite everyone interested in Machine Learning and Natural Language Processing to attend the 13th Lisbon Machine Learning School - LxMLS 2023.
 
 Important Dates
 ---------------
-* Application Deadline: May 15, 2022
-* Decision: June 1, 2022
-* Early Registration: June 1 - July 15, 2022
-* Summer School: July 24 - 29, 2022
+* Application Deadline: May 15, 2023
+* Decision: June 1, 2023
+* Early Registration: June 1 - July 15, 2023
+* Summer School: July 8 - 18, 2023
 
 
 Topics and Intended Audience
@@ -50,11 +50,11 @@ STEFAN RIEZLER | Heidelberg University | Germany
 SLAV PETROV | Google Inc. | USA
 XAVIER CARRERAS | Artificial Intelligence Research Institute, CSIC | Spain
 
-Please visit our webpage for up to date information: http://lxmls.it.pt/2022
+Please visit our webpage for up to date information: http://lxmls.it.pt/2023
 
-To apply, please fill the form in https://lisbonmls.wufoo.com/forms/application-form-lxmls-2022/ 
-Any questions should be directed to: lxmls-2022@lx.it.pt
+To apply, please fill the form in https://lisbonmls.wufoo.com/forms/application-form-lxmls-2023/ 
+Any questions should be directed to: lxmls-2023@lx.it.pt
 
 We are looking forward to your participation!
 
--- The organizers of LxMLS'2022.
+-- The organizers of LxMLS'2023.
