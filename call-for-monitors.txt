@@ -8,8 +8,8 @@ Processing (NLP). The school hosts around 200 students selected from
 more than 500 applicants from around the world and enjoys top
 lecturers in machine learning from academia and industry.
 
-This will be the first non-remote LxMLS in 3 years! It will take place from
-July 8th to July 18th, you can find more information at http://lxmls.it.pt/
+LxMLS i2023 will take place from July 14th to July 20th. 
+You can find more information at http://lxmls.it.pt/
 
 We are looking for candidates to take following responsibilities
 
@@ -45,6 +45,6 @@ information
 Previous years monitors only need to send a CV and indicate if they are applying
 to the travel and lodging grants
 
-Application Deadline: June 1st
-Decision: June 7
+Application Deadline: June 2nd
+Decision: June 9th
 =====================================================
