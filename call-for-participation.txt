@@ -34,8 +34,6 @@ Features of LxMLS:
 List of Confirmed Speakers
 ---------------
 
-Adèle H. Ribeiro, PHILIPPS-UNIVERSITÄT MARBURG | Germany
-
 ADÈLE H. RIBEIRO Philipps-Universität Marburg | Germany
 ALBERT GU Carnegie Mellon University | USA
 ANDRÉ MARTINS University of Lisbon & Unbabel | Portugal
