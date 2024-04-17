@@ -1,6 +1,6 @@
-=======================================================================
+=================================================================
 Lisbon Machine Learning School (LxMLS) 2024 -- CALL FOR MONITORS
-=======================================================================
+=================================================================
 
 The Lisbon Machine Learning School (LxMLS) is a one-week summer school
 taking place in Lisbon, Portugal, and focused on Natural Language
@@ -8,12 +8,9 @@ Processing (NLP). The school hosts around 200 students selected from
 more than 500 applicants from around the world and enjoys top
 lecturers in machine learning from academia and industry.
 
-LxMLS 2024 will take place from July 11th to July 17th. 
-You can find more information at http://lxmls.it.pt/
-
 We are looking for candidates to take following responsibilities
 
-- Master the LxMLS lab guide and code. See last year's guide as reference 
+- Master the LxMLS lab guide and code. See last year's guide as reference
   http://lxmls.it.pt/2023/documents/LxMLS_guide_2023.pdf
 
 - Tutor students during the labs sessions explaining exercises and solving the
@@ -33,18 +30,26 @@ You will be able to attend morning and afternoon lectures for free. With the
 exception of the lab sessions, monitors rotate in activities so that there is
 available free time during the school.
 
-Interested candidates should send an email with subject "LxMLS: Monitor
+Interested candidates should send an email with subject "Monitor
 Application" to ramon@astudillo.com with a Curriculum Vitae as well as following
 information
 
-- Brief description of why you want to join 
+- Brief description of why you want to join
 - Indication of whether you have attended any past edition of LxMLS as student
 - Indication of whether you need to apply to the travel and lodging grants
+- As last year, we are considering an additional core-member grant (additive to the travel grant) to work on a focused topic. This year: Multi Modal Systems 
 - (Optional) Recommendation emails. These can be sent to the same address.
 
 Previous years monitors only need to send a CV and indicate if they are applying
-to the travel and lodging grants
+to the travel and lodging grants an/or the core-member grant
 
-Application Deadline: May 31st
-Decision: June 7th
+Important Dates
+---------------
+* Monitor Application Deadline: May 1, 2024
+* Notification of Admission: May 6, 2024
+* (Registration is automatic for accepted monitors)
+* Summer School: July 11 - 17, 2024 (arriving a day before is better)
+
+Check this years details at lxmls.it.pt/2024/
+
 =====================================================
