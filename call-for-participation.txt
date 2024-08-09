@@ -1,16 +1,16 @@
 ==============================================================
 Call for Participation
-LxMLS 2024 - 14th Lisbon Machine Learning School
+LxMLS 2025 - 15th Lisbon Machine Learning School
 ==============================================================
 
-We invite everyone interested in Machine Learning and Natural Language Processing to attend the 14th Lisbon Machine Learning School - LxMLS 2024.
+We invite everyone interested in Machine Learning and Natural Language Processing to attend the 15th Lisbon Machine Learning School - LxMLS 2025.
 
 Important Dates
 ---------------
-* Application Deadline: April 26, 2024
-* Notification of Admission: May 6, 2024
-* Early registration: May 7 - June 28, 2024
-* Summer School: July 11-17, 2024
+* Application Deadline: April 26, 2025
+* Notification of Admission: May 6, 2025
+* Early registration: May 7 - June 28, 2025
+* Summer School: July 11-17, 2025
 
 
 Topics and Intended Audience
@@ -47,10 +47,10 @@ NOAH SMITH University of Washington & Allen Institute for Artificial Intelligenc
 SARA HOOKER Cohere for AI | Canada
 SLAV PETROV Google Inc. | USA
 
-Please visit our webpage for up-to-date information: http://lxmls.it.pt/2024/
-Apply here: http://tiny.cc/apply-lxmls2024
-Any questions should be directed to: lxmls-2024@googlegroups.com
+Please visit our webpage for up-to-date information: http://lxmls.it.pt/2025/
+Apply here: http://tiny.cc/apply-lxmls2025
+Any questions should be directed to: lxmls-2025@googlegroups.com
 
 We are looking forward to your participation!
 
--- The organizers of LxMLS'2024.
+-- The organizers of LxMLS'2025.
