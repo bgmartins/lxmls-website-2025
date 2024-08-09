@@ -1,5 +1,5 @@
 =================================================================
-Lisbon Machine Learning School (LxMLS) 2024 -- CALL FOR MONITORS
+Lisbon Machine Learning School (LxMLS) 2025 -- CALL FOR MONITORS
 =================================================================
 
 The Lisbon Machine Learning School (LxMLS) is a one-week summer school
@@ -11,7 +11,7 @@ lecturers in machine learning from academia and industry.
 We are looking for candidates to take following responsibilities
 
 - Master the LxMLS lab guide and code. See last year's guide as reference
-  http://lxmls.it.pt/2023/documents/LxMLS_guide_2023.pdf
+  http://lxmls.it.pt/2024/documents/LxMLS_guide_2024.pdf
 
 - Tutor students during the labs sessions explaining exercises and solving the
   student's doubts.
@@ -45,11 +45,11 @@ to the travel and lodging grants an/or the core-member grant
 
 Important Dates
 ---------------
-* Monitor Application Deadline: May 1, 2024
-* Notification of Admission: May 6, 2024
+* Monitor Application Deadline: May 1, 2025
+* Notification of Admission: May 6, 2025
 * (Registration is automatic for accepted monitors)
-* Summer School: July 11 - 17, 2024 (arriving a day before is better)
+* Summer School: July 11 - 17, 2025 (arriving a day before is better)
 
-Check this years details at lxmls.it.pt/2024/
+Check this years details at lxmls.it.pt/2025/
 
 =====================================================
